@@ -1,8 +1,6 @@
 import csv
 
 
-#ISP DRUDGE 2.0#
-
 
 #INITIALIZING LISTS
 sitecode_list=[]
